@@ -37,7 +37,7 @@ An additional column was created during the analysis:
 ## 📌 How to Use
 
 1. Clone or download this repository
-2. Open the notebook [`Exploring_NYC_Public_School_Scores.ipynb`](./Exploring_NYC_Public_School_Scores.ipynb) in Jupyter or any compatible environment
+2. Open the notebook [`Exploring_NYC_Public_School_Scores.ipynb`](./Exploring_NYC_Public_School_Test_Result_Scores.ipynb) in Jupyter or any compatible environment
 3. Run the cells to reproduce the results
 4. Adjust filters to explore different subjects, score thresholds, or borough-level patterns
 
